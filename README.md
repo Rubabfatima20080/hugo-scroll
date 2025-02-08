@@ -96,7 +96,7 @@ If you want to use these branded icons in your contact list, use the full class 
   url = "https://github.com/zjedi/hugo-scroll"
   icon = "fa-brands fa-github"
 ```
-
+head main
 ### Header logo
 
 Configured in `_index.md`, see `exampleSite`: `header_logo: "images/chef-hat.png"`
